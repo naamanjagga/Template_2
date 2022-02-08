@@ -48,3 +48,36 @@ h1 {
 }
 
 /*header ends here*/
+/*middle part start here*/
+.middle_div {
+	width: 100%;
+}
+.third_div {
+	float: left;
+	margin: 0;
+	width: 70%;
+
+}
+.second_heading,
+.third_heading {
+	color: blue;
+}
+.second_heading, p {
+    padding: 20px;
+}
+.forth_div {
+	float: left;
+	width: 30%;
+    padding: 10px;
+	background-color: lightgray;
+}
+.para_2 {
+    padding-bottom: 92%;
+}
+p {
+    font-size:10px;
+}
+h3 {
+    font-size: 13px;
+}
+/*middle part ends here*/
