@@ -49,4 +49,8 @@ li a {
 .list:hover {
 	background-color: yellowgreen;
 }
+a {
+    font-size: 1.2vw;;
+}
 /*header ends here*/
+
