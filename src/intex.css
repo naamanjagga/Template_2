@@ -62,8 +62,11 @@ h1 {
 .third_heading {
 	color: blue;
 }
-.second_heading, p {
-    padding: 20px;
+.second_heading {
+    padding: 20px 0 0 20px;
+}
+p {
+    padding-left: 20px; 
 }
 .forth_div {
 	float: left;
@@ -72,12 +75,13 @@ h1 {
 	background-color: lightgray;
 }
 .para_2 {
-    padding-bottom: 92%;
+    padding-bottom: 340px;
 }
 p {
     font-size:10px;
 }
 h3 {
     font-size: 13px;
+    padding: 15px 0 0 20px;
 }
 /*middle part ends here*/
