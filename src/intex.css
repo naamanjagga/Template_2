@@ -71,11 +71,11 @@ p {
 .forth_div {
 	float: left;
 	width: 30%;
+    bottom: 0;
+    right: 0;
     padding: 10px;
 	background-color: lightgray;
-}
-.para_2 {
-    padding-bottom: 340px;
+    padding-bottom: 380px;
 }
 p {
     font-size:10px;
@@ -85,3 +85,18 @@ h3 {
     padding: 15px 0 0 20px;
 }
 /*middle part ends here*/
+/*footer part start here*/
+.fifth_div {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: gray;
+    height: auto;
+    margin-top: 424px;
+}
+.para {
+    float: right;
+    font-size: 13px;
+    padding: 25px ;
+}
